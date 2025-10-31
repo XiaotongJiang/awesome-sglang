@@ -21,6 +21,8 @@
       * [Usage Guide](sglang-cookbook/model-recipes/llama-3.1-70b/usage-guide.md)
     * [Qwen3-Next-80B-A3B](sglang-cookbook/model-recipes/qwen3-next-80b-a3b/README.md)
       * [Usage Guide](sglang-cookbook/model-recipes/qwen3-next-80b-a3b/usage-guide.md)
+    * [DeepSeek-V3.2-Exp](sglang-cookbook/model-recipes/deepseek-v3.2-exp/README.md)
+      * [Usage Guide](sglang-cookbook/model-recipes/deepseek-v3.2-exp/usage-guide.md)
   * [API](sglang-cookbook/api/README.md)
     * [OpenAI APIs - Completions](sglang-cookbook/api/openai-apis-completions.md)
     * [OpenAI APIs - Vision](sglang-cookbook/api/openai-apis-vision.md)
